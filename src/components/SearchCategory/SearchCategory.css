@@ -1,0 +1,12 @@
+.search-category-parent {
+    border-radius: 20px;
+    background-color: #ecf1f4;
+    padding: 4px 10px;
+    margin: 4px;
+    display: inline-block;
+  }
+  .search-category-parent span{
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(68, 85, 117, 1);
+  }  

@@ -1,0 +1,27 @@
+.navbar-brand {
+    margin-right: 50px;
+  }
+  
+  .navbar-brand-logo {
+    width: 100px;
+  }
+  
+  .nav-item {
+    margin: 0 15px;
+  }
+  
+  .customize-trip-btn {
+    background-color: var(--main-color);
+    border-radius: 20px;
+    padding: 6px 30px;
+    color: white;
+  }
+  .customize-trip-btn:hover{
+    background-color: var(--main-color) !important;
+    border: none;
+  }
+  
+  .customize-trip-btn i {
+    margin-left: 12px;
+  }
+  

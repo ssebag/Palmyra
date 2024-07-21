@@ -1,0 +1,39 @@
+.creative-solutions {
+    padding: 20px;
+  }
+  
+  .about-img {
+    width: 150px;
+    height: 150px;
+    transform: rotate(8.02deg);
+  }
+  
+  .about-title {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 24px 0;
+  }
+  
+  .about-details {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    color: var(--grey-color);
+  }
+  
+  .creative-solutions .statistics {
+    display: flex;
+    gap: 32px;
+  }
+  
+  .creative-solutions .statistics .statistics-number {
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--main-color);
+  }
+  
+  .creative-solutions .statistics .statistics-details {
+    font-weight: 700;
+    color: var(--gray-color);
+  }
+  

@@ -1,0 +1,56 @@
+.footer {
+    padding: 70px 70px 0 70px;
+  }
+  
+  .footer-img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 25px;
+  }
+  
+  .footer-text {
+    font-size: 16px;
+    color: white;
+  }
+  
+  .footer .social i {
+    border-radius: 50%;
+    background-color: white;
+    color: var(--main-color);
+    width: 30px;
+    height: 30px;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    margin: 8px;
+  }
+  @media screen and (max-width: 500px){
+    .footer .social{
+      gap: 8px;
+    }
+  }
+  .quick-links div {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  
+  .quick-links h2 {
+    color: white;
+    margin-bottom: 40px;
+  }
+  
+  .quick-links a {
+    color: white;
+  }
+  
+  .contact-us h2 {
+    color: white;
+    margin-bottom: 40px;
+  }
+  
+  .contact-us p,
+  i {
+    color: white;
+  }
+  

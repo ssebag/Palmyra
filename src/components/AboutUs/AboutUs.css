@@ -1,0 +1,35 @@
+.aboutus-text {
+    font-size: 28px;
+    line-height: 48px;
+    color: rgb(82, 82, 82);
+  }
+  
+  .aboutus-name {
+    font-size: 21px;
+    color: var(--main-color);
+    font-weight: bold;
+    margin: 5px 0;
+  }
+  
+  .aboutus-job-title {
+    font-size: 16px;
+    color: gray;
+  }
+  
+  .aboutus-img {
+    width: 70%;
+    height: 90%;
+    border-radius: 50%;
+    float: right;
+  }
+  .carousel-indicators-aboutus {
+    display: flex;
+    justify-content: flex-start;
+ 
+  }
+  
+  .carousel-indicators-aboutus button {
+    background-color: var(--main-color) !important;
+  }
+    
+ 

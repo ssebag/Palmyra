@@ -1,0 +1,48 @@
+.related-articles {
+    background-color: #ecf1f4;
+    padding: 30px;
+  }
+  .related-articles .row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  .related-articles .related-articles-card{
+    width: 340px
+  }
+  
+  .related-articles-title {
+    font-weight: bold;
+  }
+  
+  .related-articles-item {
+    border-radius: 10px;
+  }
+  
+  .related-articles-header {
+    padding: 0 !important;
+  }
+  
+  .related-articles-img {
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .related-articles-body-a {
+    color: var(--main-color);
+    font-weight: bold;
+  }
+  
+  .related-articles-body-a:hover {
+    color: var(--gray-color);
+    font-weight: 800;
+  }
+  
+  .related-articles-body-title {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .related-articles-body-title span {
+    color: #52525236;
+  }
+  

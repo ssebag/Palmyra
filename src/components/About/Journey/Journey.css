@@ -1,0 +1,21 @@
+.journey {
+    padding: 40px 0;
+  }
+  
+  .journey-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+  }
+  
+  .journey-details {
+    gap: 29px;
+    margin-top: 29px;
+  }
+  
+  .journey-details .date {
+    font-size: 28px;
+    font-weight: 600;
+    color: var(--main-color);
+  }
+  

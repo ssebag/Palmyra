@@ -1,0 +1,29 @@
+.trip-information {
+    padding: 30px;
+  }
+  
+  .trip-information .content {
+    border-radius: 8px 8px 80px 8px;
+    background-color: var(--main-color);
+    text-align: center;
+    padding: 60px 0;
+  }
+  
+  .trip-information .content p {
+    font-size: 22px;
+    font-weight: 500;
+  }
+  .trip-information .content h1{
+    max-width: 519px;
+    margin: 0 auto 34px auto;
+  }
+  .trip-information .content button {
+    padding: 12px 40px;
+    border-radius: 38px;
+    border: none;
+  }
+  
+  .trip-information .content button:hover {
+    background-color: black !important;
+  }
+  

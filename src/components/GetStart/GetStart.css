@@ -1,0 +1,38 @@
+.get-started {
+    background-color: var(--main-color);
+  }
+  
+  .get-started-row {
+    display: flex;
+    align-items: center;
+  }
+  
+  .get-started-text {
+    font-size: 16px;
+    color: white;
+  }
+  .isolation_Mode{
+    height: 174px;
+  }
+  .get-started-customize{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+  .get-started-btn {
+    background-color: white;
+    color: var(--main-color);
+    border-radius: 20px;
+    padding: 6px 30px;
+  }
+  
+  .get-started-btn:hover{
+    background-color: white !important;
+    border: none;
+  }
+  
+  .get-started-btn i {
+    color: var(--main-color);
+    margin-left: 12px;
+  }
+  

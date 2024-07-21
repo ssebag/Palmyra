@@ -1,0 +1,48 @@
+:root {
+  --main-color: rgb(255, 193, 7);
+  --gray-color: #525252;
+}
+
+body {
+  overflow-x: hidden;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box;
+  color: black !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+.mt-50 {
+  margin-top: 50px;
+}
+
+.h-500 {
+  height: 500px;
+}
+
+.w-68 {
+  width: 68%;
+}
+
+.p-50px {
+  padding: 50px;
+}
+
+.p-90px {
+  padding: 90px;
+}
+
+.font-size-30 {
+  font-size: 30px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.font-size-72 {
+  font-size: 72px;
+}
