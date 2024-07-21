@@ -17,22 +17,22 @@ const Footer = () => {
                 <div className="row social">
                     <div className="col-1">
                         <a href="#">
-                            <i className="fab fa-facebook-f"></i>
+                            <i className="fab fa-facebook-f text-warning"></i>
                         </a>
                     </div>
                     <div className="col-1">
                         <a href="#">
-                            <i className="fab fa-twitter"></i>
+                            <i className="fab fa-twitter text-warning"></i>
                         </a>
                     </div>
                     <div className="col-1">
                         <a href="#">
-                            <i className="fab fa-instagram"></i>
+                            <i className="fab fa-instagram text-warning"></i>
                         </a>
                     </div>
                     <div className="col-1">
                         <a href="#">
-                            <i className="fab fa-youtube"></i>
+                            <i className="fab fa-youtube text-warning"></i>
                         </a>
                     </div>
                 </div>
@@ -50,7 +50,7 @@ const Footer = () => {
                 <h2>Contact Us</h2>
                 <div className="row">
                     <div className="col-md-1">
-                        <i className="fas fa-envelope"></i>
+                        <i className="fas fa-envelope text-warning"></i>
                     </div>
                     <div className="col-md-11">
                         <p>info@palmira.com</p>
@@ -58,7 +58,7 @@ const Footer = () => {
                 </div>
                 <div className="row">
                     <div className="col-md-1">
-                        <i className="fas fa-map-marker-alt"></i>
+                        <i className="fas fa-map-marker-alt text-warning"></i>
                     </div>
                     <div className="col-md-11">
                         <p>
@@ -68,7 +68,7 @@ const Footer = () => {
                 </div>
                 <div className="row">
                     <div className="col-md-1">
-                        <i className="fas fa-phone"></i>
+                        <i className="fas fa-phone text-warning"></i>
                     </div>
                     <div className="col-md-11">
                         <p>+90 (212) 401 90 81</p>

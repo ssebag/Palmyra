@@ -14,7 +14,7 @@ const HeroCarousel = ({title1, title2, title_warning, description, img1, img2, i
                         <p className="carousel-text text-light">
                           {description}
                         </p>
-                        <i className="fas fa-solid fa-arrow-down text-light"></i>
+                        <i className="fa fa-solid fa-arrow-down text-light"></i>
                         <div className="slider-counter">
                             <ol className="carousel-indicators">
                                 <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" className="active">01
