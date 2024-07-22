@@ -1,6 +1,6 @@
 import React from 'react'
 import './GetStart.css'
-import Isolation_Mode from './../../assets/Home/Isolation_Mode.svg'
+import Isolation_Mode from './../../assets/Isolation_Mode.svg'
 
 const GetStart = () => {
   return (

@@ -62,7 +62,7 @@ const Footer = () => {
                     </div>
                     <div className="col-md-11">
                         <p>
-                            inönü, Cumhuriyet Cd.No:131 D:1,34373 Şişli/İstanbul, Turkey
+                           Syria / Damascus
                         </p>
                     </div>
                 </div>
@@ -71,7 +71,7 @@ const Footer = () => {
                         <i className="fas fa-phone text-warning"></i>
                     </div>
                     <div className="col-md-11">
-                        <p>+90 (212) 401 90 81</p>
+                        <p>+963 999 666 555</p>
                     </div>
                 </div>
             </div>

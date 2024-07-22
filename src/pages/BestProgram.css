@@ -1,9 +1,6 @@
 .program-hero {
-    background-image: url(./../assets/BestProgram/bg-best-program.png);
+    background-image: url(./../assets/bg-best-program.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     padding: 60px 0 20px 0;
-}
-.category-img{
-    height: auto;
 }

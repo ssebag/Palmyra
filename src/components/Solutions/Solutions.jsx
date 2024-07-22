@@ -1,7 +1,7 @@
 import React from 'react'
 import './Solutions.css'
-import star_eyes from './../../../assets/About/star-eyes.png'
-import creative_solution from './../../../assets/About/creative-solution.png'
+import star_eyes from './../../assets/star-eyes.png'
+import creative_solution from './../../assets/gallery1.png'
 
 const Solutions = () => {
   return (

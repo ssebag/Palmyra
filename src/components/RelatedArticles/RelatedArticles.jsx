@@ -15,7 +15,7 @@ const RelatedArticles = () => {
                     <div className="related-articles-card mb-4">
                         <div className="card related-articles-item">
                             <div className="card-header related-articles-header">
-                                <img src={el.image} className="category-img related-articles-img" alt="article image" />
+                                <img src={el.image} className="related-articles-img" alt="article image" />
                             </div>
                             <div className="card-body related-articles-body">
                                 <div className="related-articles-body-title">

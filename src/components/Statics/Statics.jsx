@@ -12,15 +12,15 @@ const Statics = () => {
                     <img src={smile_icon} />
                     <p className="mt-4"><span className="fw-bold">Friendly</span> customer support team</p>
                 </div>
-                <div className="col-md-4 p-50px">
+                <div className="col-md-4 p-50px google-img">
                     <div>
                         <img src={google} style={{width: "134px;"}} />
                         <div className="stars">
-                            <i className="fas fa-star orange-icon font-size-20"></i>
-                            <i className="fas fa-star orange-icon font-size-20"></i>
-                            <i className="far fa-star orange-icon font-size-20"></i>
-                            <i className="far fa-star orange-icon font-size-20"></i>
-                            <i className="far fa-star orange-icon font-size-20"></i>
+                            <i className="fas fa-star orange-icon font-size-20 text-warning"></i>
+                            <i className="fas fa-star orange-icon font-size-20 text-warning"></i>
+                            <i className="far fa-star orange-icon font-size-20 text-warning"></i>
+                            <i className="far fa-star orange-icon font-size-20 text-warning"></i>
+                            <i className="far fa-star orange-icon font-size-20 text-warning"></i>
                         </div>
                     </div>
                     <p>

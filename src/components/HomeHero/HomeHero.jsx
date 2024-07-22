@@ -1,8 +1,8 @@
 import React from 'react'
 import './HomeHero.css'
-import Program1 from './../../assets/Home/program1.png'
-import Program2 from './../../assets/Home/program2.png'
-import Program3 from './../../assets/Home/program3.png'
+import Program1 from './../../assets/gallery1.png'
+import Program2 from './../../assets/gallery2.png'
+import Program3 from './../../assets/gallery3.png'
 import Camping_House from './../../assets/Home/icons/Camping-House.svg'
 import Carrier from './../../assets/Home/icons/Carrier.svg'
 import Hagia_Sophia from './../../assets/Home/icons/Hagia-Sophia.svg'
@@ -20,7 +20,7 @@ const HomeHero = () => {
             <div className="card-body">
                 <div className="row">
                     <div className="col-md-3">
-                        <i className="fas fa-map-marker-alt red-icon"></i>
+                        <i className="fas fa-map-marker-alt mx-1 text-warning"></i>
                         <label>Location</label>
                         <select name="location_id" className="form-control">
                             <option value="istanbul">Istanbul</option>
@@ -29,12 +29,12 @@ const HomeHero = () => {
                         </select>
                     </div>
                     <div className="col-md-3">
-                        <i className="fas fa-calendar-day red-icon"></i>
+                        <i className="fas fa-calendar-day mx-1 text-warning"></i>
                         <label>Date</label>
                         <input type="date" name="date" className="form-control" />
                     </div>
                     <div className="col-md-3">
-                        <i className="fas fa-tag red-icon"></i>
+                        <i className="fas fa-tag mx-1 text-warning"></i>
                         <label>Category</label>
                         <select name="location_id" className="form-control">
                             <option value="swimming">Swimming</option>

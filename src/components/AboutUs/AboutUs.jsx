@@ -1,6 +1,6 @@
 import React from 'react'
 import './AboutUs.css'
-import aboutus from './../../assets/Home/aboutus.png'
+import aboutus from './../../assets/aboutus.jpg'
 
 const AboutUs = () => {
   return (
@@ -32,9 +32,7 @@ const AboutUs = () => {
                                     for everything!
                                 </p>
                                 <p className="aboutus-name">Mr.Dived Darwan</p>
-                                <p className="aboutus-job-title">
-                                    General Manager Bus Association
-                                </p>
+                               
                             </div>
                             <div className="col-md-6">
                                 <img src={aboutus} className="aboutus-img" alt="about us" />

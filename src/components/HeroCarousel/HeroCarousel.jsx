@@ -36,14 +36,14 @@ const HeroCarousel = ({title1, title2, title_warning, description, img1, img2, i
                         </div>
                     </div>
                     <div className="col-lg-5 col-12">
+                        <div className="carousel-item category-img" data-bs-interval="10000">
+                            <img className="category-img" src={img3} />
+                        </div>
                         <div className="carousel-item active category-img" data-bs-interval="10000">
                             <img className="category-img" src={img1} />
                         </div>
                         <div className="carousel-item category-img" data-bs-interval="10000">
                             <img className="category-img" src={img2} />
-                        </div>
-                        <div className="carousel-item category-img" data-bs-interval="10000">
-                            <img className="category-img" src={img3} />
                         </div>
                     </div>
                 </div>

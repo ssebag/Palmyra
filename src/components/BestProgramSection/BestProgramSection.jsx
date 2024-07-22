@@ -47,22 +47,22 @@ const BestProgramSection = ({title, title_warning}) => {
                                     <img src={el.image} className="card-img-top program-img" alt="..." />
                                     <div className="card-body">
                                         <h5 className="card-title">
-                                            <i className="fa fa-map-marker red-icon"></i> {el.address}
+                                            <i className="fa fa-map-marker text-warning"></i> {el.address}
                                         </h5>
                                         <p className="card-text program-text">
                                           {el.details}
                                         </p>
                                         <div className="row">
                                             <div className="col-md-4">
-                                                <i className="fa fa-calendar red-icon"></i>
+                                                <i className="fa fa-calendar text-warning mx-1"></i>
                                                 <span className="program-detail-text">{el.day} Days</span>
                                             </div>
                                             <div className="col-md-4">
-                                                <i className="fa fa-smile red-icon"></i>
+                                                <i className="fa fa-smile text-warning"></i>
                                                 <span className="program-detail-text">{el.place} Places</span>
                                             </div>
                                             <div className="col-md-4">
-                                                <i className="fas fa-star orange-icon"></i>
+                                                <i className="fas fa-star orange-icon text-warning"></i>
                                                 <span className="program-detail-text">{el.rate}</span>
                                             </div>
                                         </div>

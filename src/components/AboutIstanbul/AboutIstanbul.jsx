@@ -2,7 +2,7 @@ import React from 'react'
 import './AboutIstanbul.css'
 import SearchCategory from './../SearchCategory/SearchCategory'
 import {SearchInformation} from '../../data/SearchInformation.js'
-import our_history from './../../assets/About/our-history.png'
+import our_history from './../../assets/gallery2.png'
 const AboutIstanbul = () => {
   return (
     <section className="mt-50">

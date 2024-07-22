@@ -1,5 +1,5 @@
 .program-hero {
-    background-image: url(./../../../assets/Home/bg-best-program.png);
+    background-image: url(./../../../assets/bg-best-program.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     padding: 60px 0 20px 0;
@@ -73,7 +73,7 @@
   }
   .category-img {
     width: 100%;
-    height: 100%;
+    height: 450px;
   }
   .search-bar {
     width: 700px;

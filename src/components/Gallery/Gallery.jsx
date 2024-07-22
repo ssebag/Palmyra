@@ -1,10 +1,10 @@
 import React from 'react'
 import './Gallery.css'
-import gallery1 from './../../assets/Home/gallery1.png'
-import gallery2 from './../../assets/Home/gallery2.png'
-import gallery3 from './../../assets/Home/gallery3.png'
-import gallery4 from './../../assets/Home/gallery4.png'
-import gallery5 from './../../assets/Home/gallery5.png'
+import gallery1 from './../../assets/gallery1.png'
+import gallery2 from './../../assets/gallery2.png'
+import gallery3 from './../../assets/gallery3.png'
+import gallery4 from './../../assets/gallery4.png'
+import gallery5 from './../../assets/gallery5.png'
 import { Navigation, Pagination, Scrollbar, A11y, Autoplay } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';

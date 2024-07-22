@@ -1,9 +1,9 @@
 import React from 'react'
 import Hero from './../components/Hero/Hero' 
-import Solutions from './../components/About/Solutions/Solutions' 
-import History from './../components/About/History/History' 
-import Journey from './../components/About/Journey/Journey' 
-import TripInformation from './../components/About/TripInformation/TripInformation'  
+import Solutions from './../components/Solutions/Solutions' 
+import History from './../components/History/History' 
+import Journey from './../components/Journey/Journey' 
+import TripInformation from './../components/TripInformation/TripInformation'  
 
 
 const About = () => {

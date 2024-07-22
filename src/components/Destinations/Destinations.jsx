@@ -1,10 +1,10 @@
 import React from 'react'
 import './Destinations.css'
-import destination1 from './../../assets/Home/destination1.png'
-import destination2 from './../../assets/Home/destination2.png'
-import destination3 from './../../assets/Home/destination3.png'
-import destination4 from './../../assets/Home/destination4.png'
-import destination5 from './../../assets/Home/destination5.png'
+import destination1 from './../../assets/destination1.png'
+import destination2 from './../../assets/destination2.png'
+import destination3 from './../../assets/destination3.png'
+import destination4 from './../../assets/destination4.png'
+import destination5 from './../../assets/destination5.png'
 import { Pagination, Scrollbar, A11y, Autoplay } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';

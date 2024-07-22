@@ -1,6 +1,6 @@
 import React from 'react'
 import './Journey.css'
-import our_journey from './../../../assets/About/our-journey.png'
+import our_journey from './../../assets/aboutus.jpg'
 
 const Journey = () => {
   return (
